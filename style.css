@@ -1,0 +1,20 @@
+/*
+Each of these CSS elements is associated with an HTML Element, Class, or ID.
+Flip between this CSS file and the HTML to see how things line up.
+Experiment with deleting lines of code from the CSS to see how it affects the web page when you refresh in the browser.
+*/
+
+
+a {
+    color: black;
+}
+a:link {
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    background-color: yellow;
+}
+
