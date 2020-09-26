@@ -17,4 +17,7 @@ a:visited{
 a:hover{
     background-color: yellow;
 }
+h1{
+    font-family: 'Dancing Script', cursive;
+}
 
